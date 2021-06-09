@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+    cursor: context-menu;
+}
+td{ border: 1px solid #a94356!important;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+td.result_show{
+    background:#433437 ;
+    color:white;
+    font-size: 40px;
+    text-align: right;
+    min-height: 20px;
+
+}
+td.oprater{
+    background: #f2274f;
+    color: white;
+
+}
+#result{
+    height: 85px;
+}
